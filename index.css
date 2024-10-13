@@ -1,0 +1,23 @@
+h1{
+text-align: center;
+   background-image: linear-gradient(43deg , #4158D0 0% ,#C850C0 46% , #FFCC70 100%);
+   -webkit-background-clip: text;
+   color:transparent
+}
+div{
+   background-image: url(../ii.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+pre{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+video{
+    margin-left: 20%;
+    
+}
+a{
+    color: blue;
+}
